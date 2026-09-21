@@ -6,7 +6,7 @@ HYPER is a hybrid framework for CT reconstruction from extremely sparse projecti
 
 ## Representative Results
 
-![Qualitative comparison of sparse-view CT reconstruction methods](figures/HYPER_AAPM_FIG.png)
+![Qualitative comparison of sparse-view CT reconstruction methods](figures/HYPER_AAPM_FIG.jpg)
 
 Qualitative comparison on the AAPM dataset under 20-view (top) and 10-view (bottom) conditions. Enlarged regions highlight differences in anatomical detail preservation and artifact suppression.
 
